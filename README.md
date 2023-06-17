@@ -5,6 +5,6 @@
 - 📫 How to reach me: shiguemoto.bruno@gmail.com
 
 <!---
-brunoshiguemoto/brunoshiguemoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+brunoshiguemoto/about me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
